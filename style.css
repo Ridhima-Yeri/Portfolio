@@ -262,7 +262,7 @@ p {
 /* hero section */
 
 #hero {
-  background-image: url(./assets/images/bg.jpg);
+  background-color: #000;
   background-size: cover;
   background-position: top center;
   position: relative;
@@ -276,7 +276,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: #000;
   opacity: 0.7;
   z-index: -1;
 }
